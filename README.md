@@ -1,154 +1,48 @@
-
 <div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=rezamazari&theme=neon&role=Independent%20developer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="ZAA profile banner" />
-
+<!-- PIXEL ART HEADER — animated 3D isometric cubes + matrix rain + scanline -->
+<img src="https://raw.githubusercontent.com/drmacze/drmacze/main/pixel-header.svg" alt="Musthafa Darma" width="100%"/>
+<!-- TYPING ANIMATION — Press Start 2P — fire palette -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2800&pause=1200&color=FF6600&center=true&vCenter=true&width=600&height=44&lines=FULL+STACK+DEVELOPER;AI+%26+LLM+BUILDER;OPEN+SOURCE+CONTRIBUTOR;ALWAYS+LEARNING..." alt="typing"/>
 <br/>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=1200&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Independent+developer;Building+with+code;Always+coding+%C2%B7+learning+%C2%B7+creating" alt="Animated developer introduction" />
+<!-- SOCIAL LINKS -->
+<a href="https://www.linkedin.com/in/darma-dev-9a906b416">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/rezamazari">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+<a href="https://www.instagram.com/rzmzri/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=E4405F"/>
 </a>
-
-<br/><br/>
-
-<a href="https://github.com/rezamazari">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://discord.com/users/1441642085970219133">Discord</a>
-&nbsp;·&nbsp;
-<a href="https://guns.lol/rezamzri">Guns.lol</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=rezamazari&style=for-the-badge&color=7B5CFF&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="" />
-</div>
-
-## ⚡ whoami
-
-```typescript
-const rezamazari: Developer = {
-  name:      "ZAA",
-  username:  "rezamazari",
-  role:      "Independent Developer",
-  location:  "Building from the open web",
-  currently: "Learning and building",
-  stack:     ["JavaScript"],
-  mantra:    "Make useful things, then make them delightful."
-};
-```
-
-> Independent developer exploring software, technology, and digital experiences.
->
-> **Open to meaningful collaborations.**
-
-<br/>
-
-<div align="center">
-  <img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="" />
-</div>
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,python,git,github&perline=8&theme=dark" alt="Technology stack" />
-
-<br/><br/>
-
-<p>
-  <strong>AI / ML</strong>
-  &nbsp;·&nbsp;
-  <strong>Automation</strong>
-  &nbsp;·&nbsp;
-  <strong>Open Source</strong>
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="" />
-</div>
-
-## 🌌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/rezamazari?tab=repositories">
-  Explore all repositories ↗
+<a href="https://dlavie.vercel.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FF6600?style=flat-square&logo=vercel&logoColor=white&labelColor=FF6600"/>
 </a>
-
-<br/><br/>
-
-<sub>Personal projects, experiments, and ongoing development.</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=rezamazari&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub statistics" />
-
-<br/><br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=rezamazari&theme=neon&style=aura" width="100%" alt="GitHub contribution activity" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="" />
-</div>
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/rezamazari">GitHub</a>
-&nbsp;·&nbsp;
-<a href="https://discord.com/users/1441642085970219133">Discord</a>
-&nbsp;·&nbsp;
-<a href="https://guns.lol/rezamzri">Guns.lol</a>
-
-<br/><br/>
-
-<a href="https://github.com/rezamazari">
-  <img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&labelColor=0d1117" alt="Start a conversation" />
+<a href="mailto:darmamusthafa@outlook.co.id">
+  <img src="https://img.shields.io/badge/EMAIL-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&labelColor=0078D4"/>
 </a>
-
-<br/><br/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=500&size=13&duration=4500&pause=1500&color=7DF9FF&center=true&vCenter=true&width=500&height=30&lines=BUILD+QUIETLY.;LEARN+CONSTANTLY.;KEEP+CREATING." alt="Closing animation" />
-</a>
-
-<br/><br/>
-
-<sub>BUILT WITH CODE · DRIVEN BY CURIOSITY</sub>
-
 <br/>
-
-<sub>© 2026 ZAA</sub>
-
+<img src="https://komarev.com/ghpvc/?username=rezamazari&style=flat-square&color=FF6600&label=PROFILE+VIEWS"/>
 </div>
+<img src="https://raw.githubusercontent.com/drmacze/drmacze/main/pixel-divider.svg" width="100%"/>
+<!-- STACK ──────────────────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=99999&pause=99999&color=FF6600&center=true&vCenter=true&width=200&height=30&lines=%3E+STACK" alt="STACK"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind,vite&theme=dark" alt="stack-1"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,docker,linux,git,github,vercel,vscode&theme=dark" alt="stack-2"/>
+<br/>
+<img src="https://img.shields.io/badge/OLLAMA-000000?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRIZZLE-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
+<img src="https://img.shields.io/badge/LORA_FINE--TUNING-8B5CF6?style=flat-square&logo=openai&logoColor=white"/>
+</div>
+<img src="https://raw.githubusercontent.com/drmacze/drmacze/main/pixel-divider.svg" width="100%"/>
+<!-- STATS ──────────────────────────────────────────────────────────── -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=99999&pause=99999&color=FF6600&center=true&vCenter=true&width=200&height=30&lines=%3E+STATS" alt="STATS"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=rezamazari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6600&icon_color=FFD700&text_color=8b949e&count_private=true" height="158"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamazari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF6600&text_color=8b949e&langs_count=6" height="158"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=rezamazari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF6600&fire=FFD700&currStreakLabel=FF6600&sideLabels=8b949e&dates=8b949e&stroke=21262d" height="148"/>
+</div>
+<img src="https://raw.githubusercontent.com/drmacze/drmacze/main/pixel-divider.svg" width="100%"/>
