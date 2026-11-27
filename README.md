@@ -93,20 +93,7 @@ A featured build from this profile.
 
 <div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
 
-## 🏆 Beyond the Code
 
-* 🧠 **Profile signal:** 3 contributions in the last year
-* 🚀 **Builder energy:** 2 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<div align="center">
-
-## 🤝 Let's Build Something Meaningful
-
-I build useful software and enjoy turning ambitious ideas into working products.
 
 <a href="https://github.com/rezamazari"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
 
