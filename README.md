@@ -1,117 +1,129 @@
-<div align="center">
-
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=rezamazari&theme=neon&role=Product-minded%20developer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="rezamazari profile banner" />
-
-<br/>
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Product-minded%20developer;Product-minded%20developer;Building%20with%20code;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
-
-<br/>
-
-<a href="https://github.com/rezamazari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/0_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="0 followers" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚡ whoami
-
-```typescript
-const rezamazari: Developer = {
-  name:      "rezamazari",
-  role:      "Product-minded developer",
-  location:  "Building from the open web",
-  currently: "building in public",
-  stack:     ["JavaScript"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
-
-> Product-minded developer
-> 
-> **Collaborations welcome when they are meaningful 🤝**
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚔️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript%2Ctypescript%2Creact%2Cnodejs%2Cpython%2Cgit%2Cgithub&perline=8&theme=dark" alt="Tech stack" />
-
-<br/><br/>
-
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
-
-<img src="https://img.shields.io/badge/Open_source-7DF9FF?style=for-the-badge&amp;labelColor=0d1117" alt="Open source" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🌌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**ZAA**
-
-A featured build from this profile.
-
-`Open source` · `0 stars`
-
-<a href="https://github.com/rezamazari/ZAA"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=rezamazari&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1200&color=A7B0BE&center=true&vCenter=true&width=600&height=45&lines=ZAA;Independent+Developer;Building+%26+Exploring+Software" alt="ZAA introduction" />
 
 <br/>
 
-<img src="https://www.gitskins.com/api/section/heatmap?username=rezamazari&theme=neon&style=aura" width="100%" alt="Contribution activity" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=rezamazari&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F361768999%3Fu%3D243ad412fc2cd5a083bc3f3442fa45d656d429a3%26v%3D4" alt="rezamazari heatmap visual" />
+<p>
+  <sub>SOFTWARE DEVELOPMENT · DIGITAL SYSTEMS · TECHNOLOGY</sub>
 </p>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+<p>
+  <a href="https://github.com/rezamazari">GitHub</a>
+  &nbsp; / &nbsp;
+  <a href="https://discord.com/users/1441642085970219133">Discord</a>
+  &nbsp; / &nbsp;
+  <a href="https://guns.lol/rezamzri">Guns.lol</a>
+</p>
 
-## 🏆 Beyond the Code
+</div>
 
-* 🧠 **Profile signal:** 3 contributions in the last year
-* 🚀 **Builder energy:** 2 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
+---
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=rezamazari&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+## 01 — Profile
+
+```text
+NAME        ZAA
+ROLE        Independent Developer
+INTEREST    Software & Technology
+STATUS      Learning · Building · Improving
+```
+
+Exploring the world of software development, learning how things work, and turning ideas into real projects.
+
+Interested in technology, digital systems, automation, and creating things from scratch.
+
+<br/>
+
+> Building quietly. Improving constantly.
+
+---
+
+## 02 — Technologies
 
 <div align="center">
 
-## 🤝 Let's Build Something Meaningful
+<img src="https://skillicons.dev/icons?i=javascript,python,html,css,nodejs,react,git,github,vscode&theme=dark" alt="Technologies" />
 
-I build useful software and enjoy turning ambitious ideas into working products.
+</div>
 
-<a href="https://github.com/rezamazari"><img src="https://img.shields.io/badge/Start_a_conversation-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Start a conversation" /></a>
+<details>
+<summary>Technology overview</summary>
 
-<br/><br/>
+<br/>
 
-***⭐ From [rezamazari](https://github.com/rezamazari) · built with code, AI & a little chaos 😈***
+| Field | Technologies |
+|:--|:--|
+| Languages | JavaScript, Python, HTML, CSS |
+| Runtime | Node.js |
+| Framework | React |
+| Version Control | Git |
+| Platform | GitHub |
+| Editor | Visual Studio Code |
+
+</details>
+
+---
+
+## 03 — Selected Work
+
+<div align="center">
+
+<a href="https://github.com/rezamazari?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=C9D1D9" alt="Explore repositories" />
+</a>
+
+</div>
+
+<sub>Personal projects, experiments, and things currently in development.</sub>
+
+---
+
+## 04 — GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rezamazari&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=9CA3AF&icon_color=9CA3AF&ring_color=9CA3AF&include_all_commits=true" width="92%" alt="GitHub statistics" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamazari&layout=compact&hide_border=true&bg_color=00000000&text_color=9CA3AF&title_color=9CA3AF" width="92%" alt="Most used languages" />
+
+</div>
+
+---
+
+## 05 — Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rezamazari&bg_color=00000000&color=9CA3AF&line=64748B&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+---
+
+## 06 — Connect
+
+<div align="center">
+
+<a href="https://github.com/rezamazari">GitHub</a>
+
+<a href="https://discord.com/users/1441642085970219133">Discord</a>
+
+<a href="https://guns.lol/rezamzri">Guns.lol</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=4500&pause=1800&color=6B7280&center=true&vCenter=true&width=460&height=25&lines=Make+it+work.;Make+it+better.;Keep+building." alt="Closing message" />
+
+<br/>
+
+<sub>© ZAA — 2026</sub>
 
 </div>
