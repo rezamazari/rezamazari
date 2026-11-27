@@ -67,9 +67,13 @@ const rezamazari: Developer = {
 
 <br/><br/>
 
-**AI / ML &nbsp;·&nbsp; Automation**
-
-<img src="https://img.shields.io/badge/Open_Source-7DF9FF?style=for-the-badge&labelColor=0d1117" alt="Open source" />
+<p>
+  <strong>AI / ML</strong>
+  &nbsp;·&nbsp;
+  <strong>Automation</strong>
+  &nbsp;·&nbsp;
+  <strong>Open Source</strong>
+</p>
 
 </div>
 
