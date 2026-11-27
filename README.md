@@ -58,11 +58,51 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rezamazari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B0000&icon_color=A61B1B&text_color=8b949e&count_private=true" height="158"/>
+<!-- GTA V STYLE — PLAYER STATISTICS -->
+<table width="100%" border="0" cellpadding="12" cellspacing="0">
+<tr>
+<td bgcolor="#111111">
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/PLAYER%20STATISTICS-8B0000?style=flat-square&labelColor=111111"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamazari&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B0000&text_color=8b949e&langs_count=6" height="180"/>
+<font color="#8B0000"><b>PROFILE // REZAMAZARI</b></font>
+
+<font color="#777777">DEVELOPER STATUS: ACTIVE</font>
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamazari&layout=compact&theme=github_dark&hide_border=true&bg_color=111111&title_color=8B0000&text_color=8b949e&langs_count=6" width="100%" alt="Most Used Languages"/>
+
+</div>
+
+<hr/>
+
+<div align="left">
+
+<font color="#8B0000"><b>DATA TYPE</b></font> &nbsp; <font color="#777777">LANGUAGE USAGE</font>
+
+<font color="#8B0000"><b>DATABASE</b></font> &nbsp; <font color="#777777">GITHUB REPOSITORIES</font>
+
+<font color="#8B0000"><b>STATUS</b></font> &nbsp; <font color="#777777">ONLINE</font>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- GITHUB PERFORMANCE -->
+<img src="https://github-readme-stats.vercel.app/api?username=rezamazari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8B0000&icon_color=A61B1B&text_color=8b949e&count_private=true" height="158"/>
 
 <br/>
 
